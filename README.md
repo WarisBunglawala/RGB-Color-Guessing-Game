@@ -33,18 +33,18 @@ Default mode is hard where user have to select the right color from 6 color box
 
 
 <p align="center">Image 1 - Hard Mode</p>
-<img src="Images/Image 1.png" width="800" height="500"><br>
+<img src="Images/Image 1.png"><br>
 
 
 <p align="center">Image 2 - Easy Mode</p>
-<img src="Images/Image 2.png" width="800" height="500"><br>
+<img src="Images/Image 2.png"><br>
 
 <p align="center">Image 3 - Wrong Choice</p>
-<img src="Images/Image 3.png" width="800" height="500"><br>
+<img src="Images/Image 3.png"><br>
 
 
 <p align="center">Image 4 - Correct Choice</p>
-<img src="Images/Image 4.png" width="800" height="500"><br>
+<img src="Images/Image 4.png"><br>
 
 <p align="center">Image 5 - Mobile view</p>
-<img src="Images/Image 4.png" width="300" height="500"><br>
+<img src="Images/Image 5.png" Width="300" Height="500"><br>
